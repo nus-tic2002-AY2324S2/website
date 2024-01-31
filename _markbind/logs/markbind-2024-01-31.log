@@ -80,3 +80,29 @@
 2024-01-31T10:37:34.670Z - info: Lazy website regeneration complete! Total build time: 0.531s
 2024-01-31T10:40:31.365Z - info: Website generation started at 6:40:29 pm
 2024-01-31T10:40:38.031Z - info: Building assets...
+2024-01-31T10:40:42.650Z - info: Assets built
+2024-01-31T10:40:42.651Z - info: Generating pages...
+2024-01-31T10:41:01.177Z - debug:  
+2024-01-31T10:41:01.179Z - debug:  
+2024-01-31T10:41:01.182Z - debug:  
+2024-01-31T10:41:01.452Z - debug:  
+2024-01-31T10:41:01.497Z - debug:  
+2024-01-31T10:41:03.805Z - debug:  
+2024-01-31T10:41:03.805Z - debug:  
+2024-01-31T10:41:03.806Z - debug:  
+2024-01-31T10:41:03.806Z - debug:  
+2024-01-31T10:41:03.806Z - debug:  
+2024-01-31T10:41:03.806Z - debug:  
+2024-01-31T10:41:03.807Z - debug:  
+2024-01-31T10:41:03.807Z - debug:  
+2024-01-31T10:41:03.807Z - debug:  
+2024-01-31T10:41:03.807Z - debug:  
+2024-01-31T10:41:08.317Z - debug:  
+2024-01-31T10:41:37.849Z - debug:  
+2024-01-31T10:42:30.041Z - info: Pages built
+2024-01-31T10:42:31.058Z - info: Site data built
+2024-01-31T10:42:31.059Z - info: Website generation complete! Total build time: 121.802s
+2024-01-31T10:42:31.059Z - info: Build success!
+2024-01-31T10:44:38.223Z - info: The website has been deployed at: https://nus-tic2002-ay2324s2.github.io/website
+2024-01-31T12:56:29.675Z - info: Website generation started at 8:56:20 pm
+2024-01-31T12:56:38.904Z - info: Building assets...
