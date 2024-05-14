@@ -74,6 +74,6 @@ with(this){return _c('div',[_c('p',[_v("It's tricky to coordinate for progress d
 with(this){return _c('div',[_c('p',[_v("There can be more hints given on how to go about doing the project. Although it is done incrementally (which is helpful), it is a bit difficult to know where to start/how exactly to implement the function for each section.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Wed, 17 Apr 2024, 23:17:15 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Tue, 14 May 2024, 16:47:28 GMT+8]")])])])}
 }];
   
