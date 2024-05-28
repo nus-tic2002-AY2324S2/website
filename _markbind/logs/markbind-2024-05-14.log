@@ -3244,3 +3244,30 @@ fatal: adding files failed
     at ChildProcess._handle.onexit (node:internal/child_process:305:5)
 2024-05-14T08:47:16.297Z - info: Website generation started at 4:47:01 pm
 2024-05-14T08:47:23.191Z - info: Building assets...
+2024-05-14T08:47:28.189Z - info: Assets built
+2024-05-14T08:47:28.190Z - info: Generating pages...
+2024-05-14T08:47:32.802Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\mid-semester-survey-results.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-05-14T08:47:49.733Z - debug:  
+2024-05-14T08:47:49.734Z - debug:  
+2024-05-14T08:47:49.735Z - debug:  
+2024-05-14T08:47:49.735Z - debug:  
+2024-05-14T08:47:49.844Z - debug:  
+2024-05-14T08:47:50.998Z - debug:  
+2024-05-14T08:47:50.998Z - debug:  
+2024-05-14T08:47:50.998Z - debug:  
+2024-05-14T08:47:50.998Z - debug:  
+2024-05-14T08:47:50.998Z - debug:  
+2024-05-14T08:47:50.999Z - debug:  
+2024-05-14T08:47:50.999Z - debug:  
+2024-05-14T08:47:50.999Z - debug:  
+2024-05-14T08:47:50.999Z - debug:  
+2024-05-14T08:47:50.999Z - debug:  
+2024-05-14T08:47:54.927Z - debug:  
+2024-05-14T08:48:26.702Z - debug:  
+2024-05-14T08:49:22.003Z - info: Pages built
+2024-05-14T08:49:23.001Z - info: Site data built
+2024-05-14T08:49:23.002Z - info: Website generation complete! Total build time: 141.369s
+2024-05-14T08:49:23.002Z - info: Build success!
+2024-05-14T08:51:05.857Z - info: The website has been deployed at: https://nus-tic2002-ay2324s2.github.io/website
